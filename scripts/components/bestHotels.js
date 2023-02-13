@@ -3,14 +3,14 @@ import compo from '../../compo/html.js'
 // •••••••••• The Data set of the best hotels cards ••••••••
 // •••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 let cardsData = [
-    {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200},
-    {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 2", desc: "Lorem ipsum dolor sit amet consectetur adipisicing.", rate: 30, price: 100},
-    {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200},
-    {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 2", desc: "Lorem ipsum dolor sit amet consectetur adipisicing.", rate: 30, price: 100},
-    {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200},
-    {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 2", desc: "Lorem ipsum dolor sit amet consectetur adipisicing.", rate: 30, price: 100},
-    {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200},
-    {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 2", desc: "Lorem ipsum dolor sit amet consectetur adipisicing.", rate: 30, price: 100},
+    {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200},
+    {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 2", desc: "Lorem ipsum dolor sit amet consectetur adipisicing.", rate: 30, price: 100},
+    {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200},
+    {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 2", desc: "Lorem ipsum dolor sit amet consectetur adipisicing.", rate: 30, price: 100},
+    {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200},
+    {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 2", desc: "Lorem ipsum dolor sit amet consectetur adipisicing.", rate: 30, price: 100},
+    {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200},
+    {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 2", desc: "Lorem ipsum dolor sit amet consectetur adipisicing.", rate: 30, price: 100},
 ]
 // •••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 // •••••••• Structure the top part of the Best hotels ••••••

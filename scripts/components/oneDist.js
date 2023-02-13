@@ -27,7 +27,7 @@ export default function oneDist() {
                 text:"POPULAR NOW"
             }),
             compo.img({
-                src:"../../media/map.png",
+                src:"./media/map.png",
                 class:"map",
             }),
             compo.div({
@@ -89,7 +89,7 @@ export default function oneDist() {
                     compo.h3({
                         text:"Best hotel in Giza",
                     }),
-                    card( {img: "../media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200} )
+                    card( {img: "./media/hotel.jpg", title: "Abo Ashraf Hotel 1", desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.", rate: 70, price: 200} )
                 ],
             }),
             compo.button({

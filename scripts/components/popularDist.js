@@ -4,14 +4,14 @@ import { bestHotelsTop as topPart } from './bestHotels.js'
 // ••••• The Data set of the popular destinations cards •••••
 // ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 let cardsData = [
-    {img: "../../media/pyramids.png", title: "Giza pyramids", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", place: "Giza government, Egypt", loved: true},
-    {img: "../../media/pyramids.png", title: "Giza pyramids 2", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing.", place: "Giza, Cairo", loved: false},
-    {img: "../../media/pyramids.png", title: "Giza pyramids", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", place: "Giza government, Egypt", loved: true},
-    {img: "../../media/pyramids.png", title: "Giza pyramids 2", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing.", place: "Giza, Cairo", loved: false},
-    {img: "../../media/pyramids.png", title: "Giza pyramids", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", place: "Giza government, Egypt", loved: true},
-    {img: "../../media/pyramids.png", title: "Giza pyramids 2", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing.", place: "Giza, Cairo", loved: false},
-    {img: "../../media/pyramids.png", title: "Giza pyramids", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", place: "Giza government, Egypt", loved: true},
-    {img: "../../media/pyramids.png", title: "Giza pyramids 2", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing.", place: "Giza, Cairo", loved: false},
+    {img: "./media/pyramids.png", title: "Giza pyramids", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", place: "Giza government, Egypt", loved: true},
+    {img: "./media/pyramids.png", title: "Giza pyramids 2", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing.", place: "Giza, Cairo", loved: false},
+    {img: "./media/pyramids.png", title: "Giza pyramids", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", place: "Giza government, Egypt", loved: true},
+    {img: "./media/pyramids.png", title: "Giza pyramids 2", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing.", place: "Giza, Cairo", loved: false},
+    {img: "./media/pyramids.png", title: "Giza pyramids", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", place: "Giza government, Egypt", loved: true},
+    {img: "./media/pyramids.png", title: "Giza pyramids 2", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing.", place: "Giza, Cairo", loved: false},
+    {img: "./media/pyramids.png", title: "Giza pyramids", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", place: "Giza government, Egypt", loved: true},
+    {img: "./media/pyramids.png", title: "Giza pyramids 2", desc: "Lorem ipsum dolor sit amet, consectetur adipisicing.", place: "Giza, Cairo", loved: false},
 ]
 // ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 // •••••••••••••••••• Structure Cards parent ••••••••••••••••

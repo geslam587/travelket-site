@@ -21,7 +21,7 @@ let navTop = () => {
 // •••••• Structure the bottom part of the nav ••••••
 // ••••••••••••••••••••••••••••••••••••••••••••••••••
 let navBottom = () => {
-    let bottomPart = compo.img({class: "navBottom", src:"../media/abdoAwad.jpg",
+    let bottomPart = compo.img({class: "navBottom", src:"./media/eslam.jpg",
     })
     return bottomPart
 }

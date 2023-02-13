@@ -7,7 +7,7 @@ import compo from '../../compo/html.js'
 function img() {
     let img =compo.img({
         class:"headerImg",
-        src:"../../media/airplane.png",
+        src:"./media/airplane.png",
     })
     return img
 }
